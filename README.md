@@ -9,7 +9,9 @@
 ```(pyenv)bp:smrt-filesystem:-python deconstruct.py test_file_plain 6```
 
 *Required bytes to store (dedup) 36*.
+
 *dedup file written in dedup_deconstruct*.
+
 *meta data written in dedup_meta_data.json*.
 
 ###Reconstruct
